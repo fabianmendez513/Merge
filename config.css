@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Segoe UI', serif;
+    font-size: 10px;
+    background-color: #f9fafb;
+}
+
+body {
+    color: #111827;
+    font-size: 1.6rem;
+    line-height: 1.6;
+}
+
+.content {
+    padding: 2rem;
+    background-color: white;
+    color: #1f2937;
+}
+nav {
+    background-color: #333;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    margin-right: 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
